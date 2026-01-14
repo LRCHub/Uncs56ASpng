@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "かもね",
+  "base_artist": "KizunaAI",
+  "createdAt": "2026-01-14T00:14:54.209763Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かもね",
+      "artist": "Kizuna AI (キズナアイ)",
+      "has_synced": false,
+      "path": "select/pl_01_かもね_Kizuna_AI_(キズナアイ).txt"
+    }
+  ]
+}
